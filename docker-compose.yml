@@ -1,0 +1,9 @@
+services:
+  app:
+    environment:
+      GITHUB_TOKEN:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    volumes:
+      - ./app:/usr/src/app
