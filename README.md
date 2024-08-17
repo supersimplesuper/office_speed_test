@@ -2,6 +2,14 @@
 
 This is a small script to test the speed of the Bluerock internet connection. It's designed to show that the firewall is interfering with our ability to do day to day work effectively.
 
+## How to run
+
+```bash
+make run
+```
+
+This will install all dependencies and run the test against the domains in the `domains.txt` file. Please paste your results below in into the `README.md`
+
 ## Speed test results
 
 ### Sam's home
