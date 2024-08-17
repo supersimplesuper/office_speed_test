@@ -15,14 +15,14 @@ This will install all dependencies and run the test against the domains in the `
 ### Sam's home
 
 ```
-+------------------------------+---------------+-------------------+---------+
-|              URL             | DNS Time (ms) | Request Time (ms) |  Status |
-+------------------------------+---------------+-------------------+---------+
-| https://www.xonboard.com.au  |         91.46 |            371.33 | Success |
-| https://superapi.com.au      |          21.3 |            475.24 | Success |
-| https://www.ct.com.au/       |          33.4 |            273.64 | Success |
-| https://www.bluerock.com.au/ |         18.95 |            131.61 | Success |
-| https://aws.amazon.com/      |           3.7 |            377.71 | Success |
-| https://www.fwps.vic.edu.au/ |         10.38 |            681.48 | Success |
-+------------------------------+---------------+-------------------+---------+
++------------------------------+-------------------+-----------------------+-----------------------+---------+
+|              URL             | Avg DNS Time (ms) | Avg Connect Time (ms) | Avg Request Time (ms) |  Status |
++------------------------------+-------------------+-----------------------+-----------------------+---------+
+| https://www.xonboard.com.au  |             31.98 |                 54.95 |                233.92 | Success |
+| https://superapi.com.au      |              8.45 |                 65.47 |                224.15 | Success |
+| https://www.ct.com.au/       |             14.63 |                 53.01 |                192.08 | Success |
+| https://www.bluerock.com.au/ |             13.67 |                 26.81 |                 71.09 | Success |
+| https://aws.amazon.com/      |             11.39 |                 27.65 |                566.83 | Success |
+| https://www.fwps.vic.edu.au/ |              5.65 |                151.22 |                483.65 | Success |
++------------------------------+-------------------+-----------------------+-----------------------+---------+
 ```
