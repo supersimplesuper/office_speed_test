@@ -20,7 +20,7 @@ def measure_url_performance(url)
 
   puts "# Analysing #{url}"
 
-  10.times do
+  1.times do
     dns_time = Benchmark.measure do
       results[:ip_address] = safe_dns_resolve(uri.host)
     end
