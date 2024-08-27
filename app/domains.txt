@@ -1,6 +1,11 @@
 https://www.xonboard.com.au
 https://superapi.com.au
-https://www.ct.com.au/
-https://www.bluerock.com.au/
-https://aws.amazon.com/
-https://www.fwps.vic.edu.au/
+https://www.ct.com.au
+https://www.bluerock.com.au
+https://aws.amazon.com
+https://www.fwps.vic.edu.au
+https://news.ycombinator.com
+https://www.shacknews.com
+https://yahoo.com/
+https://elixir-lang.org
+https://richardson.co.nz
