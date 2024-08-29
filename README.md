@@ -33,11 +33,16 @@ This will install all dependencies and run the test against the domains in the `
 +------------------------------+-------------------+-----------------------+-----------------------+---------+
 |              URL             | Avg DNS Time (ms) | Avg Connect Time (ms) | Avg Request Time (ms) |  Status |
 +------------------------------+-------------------+-----------------------+-----------------------+---------+
-| https://www.xonboard.com.au  |            146.39 |               3078.18 |               3156.02 | Success |
-| https://superapi.com.au      |             26.57 |               3079.15 |               3112.19 | Success |
-| https://www.ct.com.au/       |             36.87 |                 45.12 |                194.23 | Success |
-| https://www.bluerock.com.au/ |             20.34 |                 28.47 |                 19.34 | Success |
-| https://aws.amazon.com/      |             17.41 |                3065.4 |               3882.37 | Success |
-| https://www.fwps.vic.edu.au/ |           1014.16 |               3081.42 |                434.53 | Success |
+| https://www.xonboard.com.au  |             95.45 |               3082.13 |               3211.73 | Success |
+| https://superapi.com.au      |            101.18 |               3084.07 |               3182.15 | Success |
+| https://www.ct.com.au        |             39.19 |                 61.77 |               3284.66 | Success |
+| https://www.bluerock.com.au  |             19.29 |                 35.92 |                 83.59 | Success |
+| https://aws.amazon.com       |             21.46 |               3055.12 |               3746.34 | Success |
+| https://www.fwps.vic.edu.au  |            130.78 |               3082.56 |                525.08 | Success |
+| https://news.ycombinator.com |             19.54 |                573.34 |               1164.46 | Success |
+| https://www.shacknews.com    |              20.0 |               3678.98 |               4976.04 | Success |
+| https://yahoo.com/           |              4.54 |               3623.66 |                4813.8 | Success |
+| https://elixir-lang.org      |            156.21 |               3055.62 |               3310.67 | Success |
+| https://richardson.co.nz     |             59.47 |               3223.62 |                594.15 | Success |
 +------------------------------+-------------------+-----------------------+-----------------------+---------+
 ```
